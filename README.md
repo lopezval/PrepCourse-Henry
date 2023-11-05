@@ -1,1 +1,1 @@
-Este proyecto es una prueba de como crear un repositorio y clonarlo desde githun al escritorio de mi computadora.
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github al escritorio de mi computadora.
